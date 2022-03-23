@@ -1,0 +1,16 @@
+.row {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-left: 10px;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  overflow-y: scroll;
+}
+
+.row::-webkit-scrollbar {
+  display: none;
+}
+
+.row-title {
+  padding: 10px;
+}

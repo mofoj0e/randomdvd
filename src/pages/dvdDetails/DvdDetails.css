@@ -1,0 +1,17 @@
+.details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: bolder;
+  font-size: calc(10px + 2vmin);
+}
+
+.sub-title {
+  font-style: italic;
+  font-size: calc(5px + 2vmin);
+  padding-bottom: 30px;
+}

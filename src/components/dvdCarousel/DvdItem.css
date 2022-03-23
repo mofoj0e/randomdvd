@@ -1,0 +1,8 @@
+.dvd-item {
+  width: 200px;
+  padding: 10px;
+  font-size: calc(4px + 2vmin);
+  text-align: center;
+  text-decoration: none !important;
+  cursor: cursor !important;
+}

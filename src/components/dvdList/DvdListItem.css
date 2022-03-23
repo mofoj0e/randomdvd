@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+  font-size: 1vw;
+}
+
+.row-itemName {
+  flex: 2;
+}
+
+.trash {
+  margin-left: 10px;
+}
+.row-item {
+  display: flex;
+  flex: 1;
+  justify-content: space-evenly;
+  width: 100%;
+  padding: 10px;
+}
